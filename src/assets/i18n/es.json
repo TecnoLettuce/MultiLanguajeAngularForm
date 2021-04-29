@@ -7,5 +7,13 @@
   "Password": "Contraseña",
   "Bio": "Descripción",
   "TermsConditions": "Acepto los Términos y Condiciones.",
-  "Submit": "Enviar"
+  "Submit": "Enviar",
+
+  "transh1": "español h1",
+  "transh2": "español h2",
+  "transh3": "español h3",
+  "transh4": "español h4",
+  "transh5": "español h5",
+  "transh6": "español h6",
+  "texto-traducir": "Hola este es un texto de muestra que voy a intentar traducir"
 }

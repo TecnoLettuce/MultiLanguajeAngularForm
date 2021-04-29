@@ -7,5 +7,15 @@
   "Password": "Password",
   "Bio": "Enter bio",
   "TermsConditions": "I agree to terms and conditions.",
-  "Submit": "Submit"
+  "Submit": "Submit",
+
+  "transh1": "english h1",
+  "transh2": "english h2",
+  "transh3": "english h3",
+  "transh4": "english h4",
+  "transh5": "english h5",
+  "transh6": "english h6",
+  "texto-traducir": "Hello this is a sample text which i will try to translate"
+
+
 }

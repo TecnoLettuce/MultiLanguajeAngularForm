@@ -7,7 +7,9 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
+import { PruebaTextoComponent } from './prueba-texto/prueba-texto.component';
 
+// Función necesaria para el loader
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient);
 }
@@ -15,7 +17,8 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PruebaTextoComponent
   ],
   imports: [
     BrowserModule,
