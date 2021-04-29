@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  tittle: "APP DEV"
+  tittle: "APP STG"
 
 };
 

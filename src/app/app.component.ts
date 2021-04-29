@@ -2,6 +2,7 @@ import { ThrowStmt } from '@angular/compiler';
 import { Component } from '@angular/core';
 // Imports para las traducciones
 import { TranslateService } from '@ngx-translate/core';
+import { environment } from 'src/environments/environment';
 
 @Component({
   selector: 'app-root',
@@ -9,7 +10,7 @@ import { TranslateService } from '@ngx-translate/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'multilingualNgx';
+  tittle = environment.tittle;
 
   constructor(public translate: TranslateService) {
     // Añadimos los idiomas al objeto de traducción
