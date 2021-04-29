@@ -1,0 +1,11 @@
+{
+  "Sitetitle": "App angular en diferentes lenguajes",
+  "Name": "Nombre",
+  "NameError": "Estoy seguro de que tienes un nombre",
+  "Email": "Dirección de correo electrónico",
+  "PhoneNo": "Número de teléfono",
+  "Password": "Contraseña",
+  "Bio": "Descripción",
+  "TermsConditions": "Acepto los Términos y Condiciones.",
+  "Submit": "Enviar"
+}
